@@ -149,7 +149,7 @@ namespace QLCB.DAL
         }
         public Chitietchuyenbay getCTChuyenBayTail()
         {
-            Chitietchuyenbay[] list = null;
+         //   Chitietchuyenbay[] list = null;
             DataTable table = null;
             int n = 0;
 

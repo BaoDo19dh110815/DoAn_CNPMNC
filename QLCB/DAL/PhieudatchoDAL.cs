@@ -125,7 +125,7 @@ namespace QLCB.DAL
         }
         public Phieudatcho getPhieuDatChoTail()
         {
-            Phieudatcho[] list = null;
+           // Phieudatcho[] list = null;
             DataTable table = null;
             int n = 0;
 
