@@ -31,7 +31,7 @@ namespace QLCB
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            this.Close();
+         //   this.Close();
 //             Login frm = new Login();
 //             frm.ShowDialog();           
         }
